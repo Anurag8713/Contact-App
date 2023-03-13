@@ -1,0 +1,34 @@
+body {
+  margin: 20px;
+}
+.nav-header {
+  margin: auto;
+}
+
+.main-container {
+  position: relative;
+}
+
+.Trash {
+  position: absolute;
+  right: 1px;
+  top: 11px;
+}
+
+.detail {
+  margin: 5px;
+}
+
+.user-circle {
+  position: relative;
+  top: 6px;
+}
+
+.list-header {
+  display: flex;
+  align-items: center;
+}
+
+.list-title {
+  margin-right: auto;
+}
